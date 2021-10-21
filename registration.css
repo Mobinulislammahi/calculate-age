@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	padding: 0;
+  background-image: url('background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Arial;
+}
+.age-calculate{
+  margin: auto;
+  text-align: center;
+  position: inherit;
+}
+h3{
+  color: #f5d502;
+  font-size: 24px;
+  font-weight: 700;
+}
+.age-calculate {
+  margin-top: 134px;
+  width: 36%;
+  background: linear-gradient(27deg, #ee9158, #0035af);
+  padding: 15px;
+  border-radius: 17px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  background: linear-gradient(45deg, #f34e07, blue);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+input[type="reset"] {
+  padding: 10px;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  background: linear-gradient(
+45deg, #f34e07, blue);
+  font-size: 15px;
+  font-weight: 700;
+}
