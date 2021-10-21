@@ -32,6 +32,7 @@ button {
   background: linear-gradient(45deg, #f34e07, blue);
   font-size: 15px;
   font-weight: 700;
+	cursor: pointer;
 }
 
 input[type="reset"] {
@@ -43,4 +44,5 @@ input[type="reset"] {
 45deg, #f34e07, blue);
   font-size: 15px;
   font-weight: 700;
+	cursor: pointer;
 }
